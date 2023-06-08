@@ -1,4 +1,4 @@
-# Face-recognitions
+# Face-recognition
 โปรเจคปี 1 เทอม 1 วิชา Fundamental programming 1
 
 จุดประสงค์ : เพื่อสร้างการโปรแกรมในการลดเวลาการเช็คชื่อในห้องเรียนที่มีผู้เรียนจำนวนมาก
